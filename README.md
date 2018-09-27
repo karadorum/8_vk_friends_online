@@ -1,7 +1,12 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+This script shows you friends online on vk.com. You will need to enter your login and password.
 
+```bash
+pip install -r requirements.txt # alternatively try pip3
+```
+
+You will need vk package to run this script.
 # How to Install
 
 Python 3 should be already installed. Then use pip (or pip3 if there is a conflict with old Python 2 setup) to install dependencies:
