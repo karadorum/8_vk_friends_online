@@ -1,9 +1,12 @@
 # Watcher of Friends Online
 
 This script shows you friends online on vk.com. You will need to enter your login and password.
-
+Run, using command line:
 ```bash
-pip install -r requirements.txt # alternatively try pip3
+$ python vk_friends_online.py 
+Enter your vk.com login: <Your login>
+Input your vk.com password: 
+<your friend first name> <your friend last name>
 ```
 
 You will need vk package to run this script.
